@@ -3,7 +3,7 @@ package com.multi.db.config;
 public class GitHubDemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("d1 class by sagar-1 branch !");
+		System.out.println("d1 class by sagar-2 branch");
 	}
 
 }
